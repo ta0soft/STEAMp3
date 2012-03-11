@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Steamp3.Skin Name="Steam" Author="Valve" Created="1317755377">
+  <Button BGColor="686562" BGColor2="4c4a48" BorderColor="706d69" TextColor="d1cfcd">
+    <Down BGColor="4c4a48" BGColor2="686562" BorderColor="99938d" TextColor="d1cfcd" />
+    <Over BGColor="686562" BGColor2="4c4a48" BorderColor="99938d" TextColor="ffffff" />
+  </Button>
+
+  <CheckBox BorderColor="4d4b48" TextColor="b0aeae">
+    <Down BorderColor="99938d" TextColor="ffffff" />
+    <Over BorderColor="99938d" TextColor="ffffff" />
+  </CheckBox>
+
+  <List BGColor="383635" BGColor2="171614" BorderColor="4d4b48" TextColor="817e7c">
+    <Down BGColor="314159" TextColor="ffffff" />
+    <Over TextColor="cccccc" />
+    <Play BGColor="506a2f" TextColor="7ea64b" />
+    <Stop BGColor="5f2527" TextColor="ad4548" />
+  </List>
+
+  <Popup BGColor="5b5855" BGColor2="3d3b3a" BorderColor="4d4b48" LineColor="706d69" TextColor="b0aeae">
+    <Over BGColor="314159" TextColor="ffffff" />
+  </Popup>
+
+  <ScrollBar BGColor="5e5b58" BGColor2="4d4b48" TextColor="b0aeae">
+    <Down BGColor="666360" TextColor="ffffff" />
+    <Over BGColor="666360" TextColor="ffffff" />
+  </ScrollBar>
+
+  <Slider BGColor="6b6865" BGColor2="383635" BorderColor="4d4b48">
+    <Over BGColor="7c7976" BGColor2="383635" BorderColor="4d4b48" />
+    <Play BGColor="7ea64b" />
+    <Stop BGColor="ad4548" />
+  </Slider>
+
+  <Tab BGColor="383635" BGColor2="383635" LineColor="6b6865" TextColor="b0aeae">
+    <Down BGColor="6b6865" TextColor="ffffff" />
+    <Over BGColor="64615e" TextColor="ffffff" />
+  </Tab>
+
+  <TextBox BorderColor="706d69" TextColor="817e7c">
+    <Down BGColor="314159" TextColor="ffffff" />
+    <Over TextColor="cccccc" />
+  </TextBox>
+
+  <ToolBar BGColor="282725" BGColor2="282725" BorderColor="282725" TextColor="817e7c" />
+
+  <Window BGColor="151515" BGColor2="383635" BorderColor="000000" BorderColor2="4c6c8b" LineColor="383635" TextColor="b0aeae">
+    <Down TextColor="ffffff" />
+    <Over TextColor="ffffff" />
+  </Window>
+</Steamp3.Skin>

@@ -1,0 +1,14 @@
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Debug\Steamp3.exe
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Debug\Steamp3.pdb
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\Steamp3.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\Steamp3.exe
+c:\users\tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\Steamp3.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Debug\Steamp3.exe.config
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Debug\Steam4NET.dll
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\obj\x86\Debug\Steamp3.csproj.ResolveComReference.cache
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\bin\Debug\UltraID3Lib.dll
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\bin\Debug\Interop.WMPLib.dll

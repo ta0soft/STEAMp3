@@ -1,0 +1,24 @@
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Release\Steamp3.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Release\Steamp3.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\Steamp3.Properties.Resources.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\Steamp3.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\Steamp3.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\Steamp3\Steamp3\bin\Release\Steamp3.exe.config
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\obj\x86\Release\Steamp3.csproj.ResolveComReference.cache
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Steamp3\Steamp3\bin\Release\Interop.WMPLib.dll
+C:\Users\Tom\STEAMp3\Steamp3\bin\Release\Steamp3.exe.config
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\Steamp3.csproj.ResolveComReference.cache
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\Steamp3.exe
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\Steamp3.pdb
+C:\Users\Tom\STEAMp3\Steamp3\bin\Release\Steamp3.exe
+C:\Users\Tom\STEAMp3\Steamp3\bin\Release\Steamp3.pdb
+C:\Users\Tom\STEAMp3\Steamp3\bin\Release\Interop.WMPLib.dll
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\Steamp3.Properties.Resources.resources
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Tom\STEAMp3\Steamp3\obj\x86\Release\ResGen.write.1.tlog
