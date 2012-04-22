@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Steamp3.Settings>
+  <GlobalCommands>1</GlobalCommands>
+  <Image
+    Location="1"
+    Quality="1" />
+  <Music
+    Filter=".mp3;.m4a;.wav;.wma;.ogg;.flac"
+    Folder="B:\" />
+  <Notifications>0</Notifications>
+  <OutputDevice>0</OutputDevice>
+  <Playlist
+    Format="{Artist} - {Title}"
+    URL="C:\Users\Tom\Music\Dubstep.sp3" />
+  <PlayMode>1</PlayMode>
+  <Radio />
+  <Separator
+    Left="["
+    Right="]" />
+  <Silent>0</Silent>
+  <Trigger></Trigger>
+  <Volume>100</Volume>
+  <Window
+    Width="680"
+    Height="475" />
+</Steamp3.Settings>
